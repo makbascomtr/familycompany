@@ -1,0 +1,3 @@
+User-agent: *
+  Disallow:
+  Sitemap: https://familycompany.com.tr/map.xml
