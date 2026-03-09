@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Institutional",
+        "ar": "المؤسسية"
+      },
+      "status": "play",
+      "category": "",
+      "id": "amjji7wyh8",
+      "path": "kurumsal",
+      "description": {
+        "tr": "Family Şirketi - 2021 yılından bu yana kozmetik ve inşaat sektörlerinde kaliteli ürünler sunan, müşteri memnuniyetini ön planda tutan güvenilir bir kuruluş.",
+        "en": "Family Company - A reliable organization that has been offering quality products in cosmetics and construction sectors since 2021, prioritizing customer satisfaction.",
+        "ar": "شركة العائلة - مؤسسة موثوقة تقدم منتجات عالية الجودة في قطاعات مستحضرات التجميل والبناء منذ عام 2021، مع إعطاء الأولوية لرضا العملاء."
+      },
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz",
+          "g2h5jf",
+          "hdgexl"
+        ],
+        "footer": []
+      },
+      "img": "e0jnu.png",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kozmetik Ürünlerimiz",
+        "en": "Our Cosmetic Products",
+        "ar": "منتجاتنا التجميلية"
+      },
+      "status": "play",
+      "category": "",
+      "id": "vqnbm9dfz0",
+      "path": "kozmetik-urunlerimiz",
+      "description": {
+        "tr": "Family Şirketi kozmetik ürünleri - Cilt bakımı, saç bakımı, makyaj ve parfüm kategorilerinde kaliteli ve güvenilir ürünler sunuyoruz.",
+        "en": "Family Company cosmetic products - We offer quality and reliable products in skin care, hair care, makeup and perfume categories.",
+        "ar": "منتجات شركة العائلة التجميلية - نقدم منتجات عالية الجودة وموثوقة في فئات العناية بالبشرة والعناية بالشعر والمكياج والعطور."
+      },
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "tx5ud7"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İnşaat Ürünlerimiz",
+        "en": "Our Construction Products",
+        "ar": "منتجات البناء لدينا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "x8w88e96hs",
+      "path": "insaat-urunlerimiz",
+      "description": {
+        "tr": "Family Şirketi inşaat ürünleri - Yapı ve inşaat sektörü için kaliteli ve güvenilir malzemeler sunuyoruz.",
+        "en": "Family Company construction products - We offer quality and reliable materials for the building and construction industry.",
+        "ar": "منتجات شركة العائلة للبناء - نقدم مواد عالية الجودة وموثوقة لصناعة البناء والإنشاءات."
+      },
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "crs7js"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Communication",
+        "ar": "تواصل"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c8j37mx96a",
+      "path": "iletisim",
+      "description": {
+        "tr": "Family Şirketi iletişim bilgileri - Bize ulaşın, adresimizi öğrenin, telefon ve e-posta bilgilerimizle bizimle iletişime geçin.",
+        "en": "Family Company contact information - Contact us, learn our address, reach us through our phone and email information.",
+        "ar": "معلومات الاتصال بشركة العائلة - اتصل بنا، تعرف على عنواننا، تواصل معنا من خلال معلومات الهاتف والبريد الإلكتروني."
+      },
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [
+          "rkd26l",
+          "hdgexl",
+          "nh7r7o"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About us",
+        "ar": "معلومات عنا"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "j98tsobuyu",
+      "path": "hakkimizda",
+      "description": {
+        "tr": "Family Şirketi hakkında - 2021 yılından bu yana kozmetik ve inşaat sektörlerinde kaliteli ürünler sunan, müşteri memnuniyetini ön planda tutan güvenilir bir kuruluş.",
+        "en": "About Family Company - A reliable organization that has been offering quality products in cosmetics and construction sectors since 2021, prioritizing customer satisfaction.",
+        "ar": "عن شركة العائلة - مؤسسة موثوقة تقدم منتجات عالية الجودة في قطاعات مستحضرات التجميل والبناء منذ عام 2021، مع إعطاء الأولوية لرضا العملاء."
+      },
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Misyon",
+        "en": "Mission",
+        "ar": "مهمة"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "y6i7ihbnir",
+      "path": "misyon",
+      "description": {
+        "tr": "Family Şirketi misyonu - Müşterilerimize en kaliteli ürünleri sunarak, onların beklentilerini aşmak ve sektördeki lider konumumuzu pekiştirmek.",
+        "en": "Family Company mission - To exceed customer expectations and strengthen our leading position in the sector by offering the highest quality products to our customers.",
+        "ar": "مهمة شركة العائلة - تجاوز توقعات العملاء وتعزيز موقعنا الرائد في القطاع من خلال تقديم منتجات عالية الجودة لعملائنا."
+      },
+      "index": 5,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Vizyon",
+        "en": "Vision",
+        "ar": "رؤية"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "vizyon",
+      "path": "vizyon",
+      "description": {
+        "tr": "Family Şirketi vizyonu - Ulusal ve uluslararası pazarda daha geniş kitlelere ulaşmak, sektördeki yenilikleri ve müşteri beklentilerini en iyi şekilde karşılamak.",
+        "en": "Family Company vision - To reach wider audiences in national and international markets, to best meet industry innovations and customer expectations.",
+        "ar": "رؤية شركة العائلة - الوصول إلى جماهير أوسع في الأسواق الوطنية والدولية، وتلبية أفضل للابتكارات في الصناعة وتوقعات العملاء."
+      },
+      "index": 6,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Değerlerimiz",
+        "en": "Our values",
+        "ar": "قيمنا"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "rszmg4ce9p",
+      "path": "degerlerimiz",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 7,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Our Quality Policy",
+        "ar": "سياسة الجودة لدينا"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "eteudfr7pt",
+      "path": "kalite-politikamiz",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 8,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "ja377wzdhs",
+      "path": "kisisel-veriler",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 9,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "ar": "إشعار قانوني"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "lar767nso7",
+      "path": "yasal-uyari",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 10,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Çerez Politikası",
+        "en": "Cookie Policy",
+        "ar": "سياسة ملفات تعريف الارتباط"
+      },
+      "status": "play",
+      "category": "amjji7wyh8",
+      "id": "nl2lafr0tb",
+      "path": "cerez-politikasi",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "index": 11,
+      "desing": {
+        "header": [],
+        "body": [
+          "bad3xz"
+        ],
+        "footer": []
+      },
+      "desc": {}
+    }
+  ],
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "body": true,
+    "page": true,
+    "detail": true,
+    "img": false,
+    "bgimg": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "رؤية"
+  },
+  "status": "play",
+  "category": "amjji7wyh8",
+  "id": "vizyon",
+  "path": "vizyon",
+  "keyword": {
+    "tr": "Family Şirketi vizyon, gelecek hedefleri, stratejik planlama",
+    "en": "Family Company vision, future goals, strategic planning",
+    "ar": "رؤية شركة العائلة، الأهداف المستقبلية، التخطيط الاستراتيجي"
+  },
+  "description": {
+    "tr": "Family Şirketi vizyonu - Ulusal ve uluslararası pazarda daha geniş kitlelere ulaşmak, sektördeki yenilikleri ve müşteri beklentilerini en iyi şekilde karşılamak.",
+    "en": "Family Company vision - To reach wider audiences in national and international markets, to best meet industry innovations and customer expectations.",
+    "ar": "رؤية شركة العائلة - الوصول إلى جماهير أوسع في الأسواق الوطنية والدولية، وتلبية أفضل للابتكارات في الصناعة وتوقعات العملاء."
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "index": 6,
+  "desing": {
+    "header": [],
+    "body": [
+      "bad3xz"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "bgimg": "vizyon.jpg",
+  "update": "2026-03-09T08:47:49.781Z",
+  "date": "2026-03-03T10:00:59.523Z",
+  "title": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "رؤية"
+  }
+}

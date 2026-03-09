@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Kozmetik Ürünlerimiz",
+    "en": "Our Cosmetic Products",
+    "ar": "منتجاتنا التجميلية"
+  },
+  "status": "play",
+  "category": "",
+  "id": "vqnbm9dfz0",
+  "externalUrl": "",
+  "path": "kozmetik-urunlerimiz",
+  "keyword": {
+    "tr": "kozmetik ürünleri, cilt bakımı, saç bakımı, makyaj, parfüm, güzellik ürünleri",
+    "en": "cosmetic products, skin care, hair care, makeup, perfume, beauty products",
+    "ar": "منتجات التجميل، العناية بالبشرة، العناية بالشعر، المكياج، العطور، منتجات التجميل"
+  },
+  "description": {
+    "tr": "Family Şirketi kozmetik ürünleri - Cilt bakımı, saç bakımı, makyaj ve parfüm kategorilerinde kaliteli ve güvenilir ürünler sunuyoruz.",
+    "en": "Family Company cosmetic products - We offer quality and reliable products in skin care, hair care, makeup and perfume categories.",
+    "ar": "منتجات شركة العائلة التجميلية - نقدم منتجات عالية الجودة وموثوقة في فئات العناية بالبشرة والعناية بالشعر والمكياج والعطور."
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "tx5ud7"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "bgimg": "l95md.jpg",
+  "update": "2026-03-09T08:47:49.747Z",
+  "date": "2026-03-03T10:00:59.475Z",
+  "title": {
+    "tr": "Kozmetik Ürünlerimiz",
+    "en": "Our Cosmetic Products",
+    "ar": "منتجاتنا التجميلية"
+  }
+}

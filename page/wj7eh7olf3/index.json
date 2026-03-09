@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Harby",
+    "en": "Harby",
+    "ar": "Harby"
+  },
+  "status": "play",
+  "category": "",
+  "id": "wj7eh7olf3",
+  "url": "",
+  "path": "harby",
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "img": "l22qm.webp",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "slider": [],
+  "pathnext": "",
+  "title": {
+    "tr": "Harby",
+    "en": "Harby",
+    "ar": "Harby"
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "textmodul": false,
+  "update": "2026-03-09T08:47:49.827Z",
+  "date": "2026-03-09T08:45:50.902Z"
+}

@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "PVC Profilleri",
+    "en": "PVC",
+    "ar": "بولي كلوريد الفينيل"
+  },
+  "status": "play",
+  "category": "",
+  "id": "nsxlzhzawl",
+  "externalUrl": "",
+  "path": "pvc",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "index": 4,
+  "desing": {
+    "header": [],
+    "body": [
+      "grvbag"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "img": "e58go.webp",
+  "update": "2026-03-09T08:47:49.917Z",
+  "date": "2026-03-03T10:00:59.688Z",
+  "title": {
+    "tr": "PVC Profilleri",
+    "en": "PVC",
+    "ar": "بولي كلوريد الفينيل"
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  }
+}

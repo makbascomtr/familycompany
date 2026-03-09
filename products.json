@@ -1,0 +1,190 @@
+{
+  "name": "Ürünler",
+  "path": "products",
+  "desc": [],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "i3b3ah"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true
+  },
+  "data": [
+    {
+      "name": {
+        "tr": "Harby",
+        "en": "Harby",
+        "ar": "Harby"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wj7eh7olf3",
+      "url": "",
+      "path": "harby",
+      "index": 0,
+      "icon": "home",
+      "img": "l22qm.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "textmodul": false,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Razi",
+        "en": "Willing",
+        "ar": "راغب"
+      },
+      "status": "play",
+      "category": "",
+      "id": "chaw5pqdx5",
+      "path": "razi",
+      "img": "index.webp",
+      "description": {
+        "tr": "Family Company'nin Razi koleksiyonu, modern tasarımları ve kaliteli ürünleriyle öne çıkar. Her tarza uygun seçenekler sunan Razi, şıklık ve konforu bir araya getirir.",
+        "en": "Family Company's Razi collection stands out with its modern designs and quality products. Razi, offering options suitable for every style, combines elegance and comfort.",
+        "ar": "تتميز مجموعة راغب من شركة فاميلي بتصاميمها العصرية ومنتجاتها عالية الجودة. راغب، التي تقدم خيارات مناسبة لكل أسلوب، تجمع بين الأناقة والراحة."
+      },
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Nido",
+        "en": "Nido",
+        "ar": "نيدو"
+      },
+      "status": "play",
+      "category": "",
+      "id": "f2tobym95w",
+      "path": "nido",
+      "img": "index.webp",
+      "description": {
+        "tr": "Family Company'nin Nido koleksiyonu, yenilikçi tasarımları ve kaliteli ürünleriyle öne çıkar. Her tarza uygun seçenekler sunan Nido, stil ve kaliteyi bir araya getirir.",
+        "en": "Family Company's Nido collection stands out with its innovative designs and quality products. Nido, offering options suitable for every style, combines style and quality.",
+        "ar": "تتميز مجموعة نيدو من شركة فاميلي بتصاميمها المبتكرة ومنتجاتها عالية الجودة. نيدو، التي تقدم خيارات مناسبة لكل أسلوب، تجمع بين الأناقة والجودة."
+      },
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Moly",
+        "en": "Moly",
+        "ar": "مولي"
+      },
+      "status": "play",
+      "category": "",
+      "id": "kyko8p8ecf",
+      "path": "moly",
+      "img": "index.webp",
+      "description": {
+        "tr": "Family Company'nin Moly koleksiyonu, şık tasarımları ve kaliteli ürünleriyle öne çıkar. Her tarza uygun seçenekler sunan Moly, zarafet ve kaliteyi bir araya getirir.",
+        "en": "Family Company's Moly collection stands out with its elegant designs and quality products. Moly, offering options suitable for every style, combines elegance and quality.",
+        "ar": "تتميز مجموعة مولي من شركة فاميلي بتصاميمها الأنيقة ومنتجاتها عالية الجودة. مولي، التي تقدم خيارات مناسبة لكل أسلوب، تجمع بين الأناقة والجودة."
+      },
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Hareem al Sultan",
+        "en": "Hareem al Sultan",
+        "ar": "حريم السلطان"
+      },
+      "status": "play",
+      "category": "",
+      "id": "y41n2ft9gv",
+      "path": "hareem-al-sultan",
+      "img": "index.webp",
+      "description": {
+        "tr": "Family Company'nin Hareem al Sultan koleksiyonu, lüks tasarımları ve kaliteli ürünleriyle öne çıkar. Her tarza uygun seçenekler sunan Hareem al Sultan, lüks ve kaliteyi bir araya getirir.",
+        "en": "Family Company's Hareem al Sultan collection stands out with its luxury designs and quality products. Hareem al Sultan, offering options suitable for every style, combines luxury and quality.",
+        "ar": "تتميز مجموعة حريم السلطان من شركة فاميلي بتصاميمها الفاخرة ومنتجاتها عالية الجودة. حريم السلطان، التي تقدم خيارات مناسبة لكل أسلوب، تجمع بين الفخامة والجودة."
+      },
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Dorco",
+        "en": "Dorco",
+        "ar": "دوركو"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wjv33is43j",
+      "path": "dorco",
+      "img": "index.webp",
+      "description": {
+        "tr": "Family Company'nin Dorco koleksiyonu, klasik tasarımları ve kaliteli ürünleriyle öne çıkar. Her tarza uygun seçenekler sunan Dorco, klasik ve kaliteyi bir araya getirir.",
+        "en": "Family Company's Dorco collection stands out with its classic designs and quality products. Dorco, offering options suitable for every style, combines classic and quality.",
+        "ar": "تتميز مجموعة دوركو من شركة فاميلي بتصاميمها الكلاسيكية ومنتجاتها عالية الجودة. دوركو، التي تقدم خيارات مناسبة لكل أسلوب، تجمع بين الكلاسيكية والجودة."
+      },
+      "index": 5,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Camay",
+        "en": "Camay",
+        "ar": "كاماي"
+      },
+      "status": "play",
+      "category": "",
+      "id": "j2v3njfkey",
+      "path": "camay",
+      "img": "index.webp",
+      "description": {
+        "tr": "Family Company'nin Camay koleksiyonu, modern tasarımları ve kaliteli ürünleriyle öne çıkar. Her tarza uygun seçenekler sunan Camay, modern ve kaliteyi bir araya getirir.",
+        "en": "Family Company's Camay collection stands out with its modern designs and quality products. Camay, offering options suitable for every style, combines modern and quality.",
+        "ar": "تتميز مجموعة كاماي من شركة فاميلي بتصاميمها العصرية ومنتجاتها عالية الجودة. كاماي، التي تقدم خيارات مناسبة لكل أسلوب، تجمع بين العصرية والجودة."
+      },
+      "index": 6,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "desc": {}
+    }
+  ]
+}

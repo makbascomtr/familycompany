@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Aksesuar Çeşitleri",
+    "en": "Accessory Types",
+    "ar": "أنواع الملحقات"
+  },
+  "status": "play",
+  "category": "",
+  "id": "os3wsgiuny",
+  "externalUrl": "",
+  "path": "aksesuar-cesitleri",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [
+      "grvbag"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "img": "qr0aq.webp",
+  "update": "2026-03-09T08:47:49.910Z",
+  "date": "2026-03-03T10:00:59.676Z",
+  "title": {
+    "tr": "Aksesuar Çeşitleri",
+    "en": "Accessory Types",
+    "ar": "أنواع الملحقات"
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  }
+}

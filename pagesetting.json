@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "body": true,
+        "page": true,
+        "detail": true,
+        "img": false,
+        "bgimg": false
+      }
+    },
+    {
+      "name": "Ürünler",
+      "path": "products",
+      "desc": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "i3b3ah"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true
+      }
+    },
+    {
+      "name": "İnşaat",
+      "path": "building",
+      "desc": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true,
+        "bgimg": false
+      }
+    }
+  ]
+}

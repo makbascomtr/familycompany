@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Çerez Politikası",
+    "en": "Cookie Policy",
+    "ar": "سياسة ملفات تعريف الارتباط"
+  },
+  "status": "play",
+  "category": "amjji7wyh8",
+  "id": "nl2lafr0tb",
+  "externalUrl": "",
+  "path": "cerez-politikasi",
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "text": {
+    "tr": "<h1>Çerez Politikası</h1>\n    \n    <p>Family Şirketi olarak, internet sitemizi ziyaret eden kullanıcılarımızın deneyimlerini iyileştirmek ve daha iyi hizmet sunmak amacıyla çerezler kullanmaktayız. Bu Çerez Politikası, çerezlerin ne olduğu, hangi tür çerezleri kullandığımız ve kullanıcıların çerez tercihlerini nasıl yönetebilecekleri hakkında bilgi vermektedir.</p>\n    \n    <h2>1. Çerez Nedir?</h2>\n    <p>Çerezler, bir internet sitesini ziyaret ettiğinizde cihazınıza depolanan küçük metin dosyalarıdır. Bu dosyalar, internet sitesinin işleyişini sağlamak, kullanıcı deneyimini geliştirmek ve belirli bilgileri hatırlamak için kullanılır.</p>\n\n    <h2>2. Kullandığımız Çerez Türleri</h2>\n    <p>Family Şirketi olarak, web sitemizde çeşitli türlerde çerezler kullanmaktayız:</p>\n    \n    <ul>\n        <li><strong>Oturum Çerezleri:</strong> Bu çerezler, tarayıcınızı kapattığınızda silinir ve sitemizi ziyaret ederken oturumunuzun yönetilmesine yardımcı olur.</li>\n        <li><strong>Kalıcı Çerezler:</strong> Tarayıcınızın ayarlarına bağlı olarak, belirli bir süre boyunca cihazınızda depolanan çerezlerdir. Web sitemizi tekrar ziyaret ettiğinizde sizi hatırlamamıza yardımcı olurlar.</li>\n        <li><strong>Üçüncü Taraf Çerezler:</strong> Üçüncü taraf hizmet sağlayıcılar tarafından sunulan çerezlerdir. Bu çerezler, analitik ve pazarlama gibi alanlarda kullanılmaktadır.</li>\n    </ul>\n\n    <h2>3. Çerezlerin Kullanım Amaçları</h2>\n    <p>Çerezleri şu amaçlar doğrultusunda kullanıyoruz:</p>\n    <ul>\n        <li>Web sitemizin işleyişini sağlamak,</li>\n        <li>Kullanıcı deneyimini iyileştirmek,</li>\n        <li>İstatistiksel veriler toplamak ve site performansını analiz etmek,</li>\n        <li>Kişiselleştirilmiş içerik ve reklamlar sunmak.</li>\n    </ul>\n\n    <h2>4. Çerez Tercihlerinizi Nasıl Yönetebilirsiniz?</h2>\n    <p>Tarayıcı ayarlarınızı kullanarak çerezleri kabul etmek veya reddetmek mümkündür. Çerez tercihlerinizi değiştirmek için aşağıdaki adımları izleyebilirsiniz:</p>\n    \n    <ul>\n        <li>Tarayıcınızın ayarları menüsünden çerezler ile ilgili seçeneklere ulaşabilirsiniz.</li>\n        <li>Çerezleri tamamen devre dışı bırakabilir veya hangi çerezlerin kullanılacağını seçebilirsiniz.</li>\n    </ul>\n    \n    <p>Çerezleri devre dışı bırakmanız durumunda, web sitemizin bazı özelliklerinin düzgün çalışmayabileceğini lütfen unutmayın.</p>\n    \n    <h2>5. Çerez Politikası Değişiklikleri</h2>\n    <p>Bu Çerez Politikası zaman zaman güncellenebilir. Herhangi bir değişiklik yapıldığında, güncellenmiş politika web sitemizde yayınlanacaktır. Çerez politikamız ile ilgili güncellemeleri düzenli olarak kontrol etmenizi öneririz.</p>",
+    "en": "<h1>Cookie Policy</h1>\n    \n    ",
+    "ar": "<h1>سياسة ملفات تعريف الارتباط</h1>\n    \n    "
+  },
+  "desc": {},
+  "index": 11,
+  "desing": {
+    "header": [],
+    "body": [
+      "bad3xz"
+    ],
+    "footer": []
+  },
+  "bgimg": "gigvg.jpg",
+  "update": "2026-03-09T08:47:49.820Z",
+  "date": "2026-03-03T10:00:59.566Z",
+  "title": {
+    "tr": "Çerez Politikası",
+    "en": "Cookie Policy",
+    "ar": "سياسة ملفات تعريف الارتباط"
+  }
+}
